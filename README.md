@@ -1,4 +1,4 @@
-V.Pre-Alpha
+Pre-Alpha
 
 Stack: </br>
 &emsp;React </br>
